@@ -14,6 +14,7 @@
 
 You can then access petclinic here: http://localhost:8080/
 
+
 <img width="782" alt="spring-petclinic" src="https://cloud.githubusercontent.com/assets/838318/19653851/61c1986a-9a16-11e6-8b94-03fd7f775bb3.png">
 
 ## In case you find a bug/suggested improvement for Spring Petclinic
